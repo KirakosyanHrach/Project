@@ -69,9 +69,10 @@ document.onkeydown = function (e) {
     document.getElementById("a1").innerHTML = cl
     if (cl == 30) {
         document.getElementById("q8").style.opacity = 1;
+        document.getElementById("ll").style.opacity = 1;
         clearInterval(stop);
     }
-   
+    document.getElementsById("ll").style.opacity = 1;
 }
 
 var u = 60

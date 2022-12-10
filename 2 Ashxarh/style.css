@@ -7,12 +7,12 @@ body{
     margin: 0;
     padding: 0;
 }
-.a{
+.b{
     width: 100%;
     height: 50px;
     position: relative;
 }
-.a1{
+.b1{
     width: 8%;
     height: 50px;
     border: 1px solid black;
@@ -21,7 +21,7 @@ body{
     font-size: 30px;
     text-align: center;
 }
-.a2{
+.b2{
     width: 8%;
     height: 50px;
     border: solid 1px black;
@@ -31,19 +31,19 @@ body{
     font-size: 30px;
     text-align: center;
 }
-.q{
+.s{
     width: 4%;
     position: absolute;
     left: 5%;
     top: 100px;
 }
-.q1{
+.s1{
     width: 4%;
     position: absolute;
     left: 60%;
     top: 50px;
 }
-.q2{
+.s2{
     width: 4%;
     position: absolute;
     left: 25%;
@@ -52,38 +52,38 @@ body{
     color: red;
     text-align: center;
 }
-.q3{
+.s3{
     width: 4%;
     position: absolute;
     left: 80%;
     top: 100px;
 }
-.q4{
+.s4{
     width: 4%;
     position: absolute;
     left: 10%;
     top: 400px;
 }
-.q5{
+.s5{
     width: 4%;
     position: absolute;
     left: 55%;
     top: 250px;
 }
-.q6{
+.s6{
     width: 100px;
     position: absolute;
     left: 65%;
     top: 400px;
 }
-.q7{
+.s7{
     width: 40%;
     position: absolute;
     left: 30%;
     top: 100px;
     opacity: 0;
 }
-.q8{
+.s8{
     width: 40%;
     position: absolute;
     left: 30%;
@@ -94,7 +94,7 @@ body{
     opacity: 0;
 }
 
-.ll{
+.ss{
     width: 10%;
     height: 5%;
     position: absolute;
@@ -106,7 +106,7 @@ body{
     opacity: 0;
 }
 
-.lll{
+.sss{
     color:  black;
     font-size: 50px;
     padding: 10px;
